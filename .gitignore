@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data
+donateacry_corpus/
+data/
+*.zip
+
+# Env
+.venv/
+env/
